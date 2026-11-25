@@ -1,0 +1,1 @@
+import {Story} from '@/components/Experience';import {ProductGrid,Tech,Brand,Compare,FAQ} from '@/components/Sections';export default function Home(){return <><Story/><ProductGrid/><Tech/><Brand/><Compare/><FAQ/></>}
